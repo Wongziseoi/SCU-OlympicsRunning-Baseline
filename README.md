@@ -38,13 +38,3 @@ check details in Jidi Competition [RLChina2021智能体竞赛](http://www.jidiai
 By default parameters, the total reward of training is shown below.
 
 <img src=https://github.com/jidiai/Competition_Olympics-Running/blob/main/assets/PPO%20map1%20training%20(run1).png>
-
-You can also locally evaluate your trained model by executing:
-
->python evaluation_local.py --my_ai rl --opponent random --episode=50 --map=all
-
-or specifying the map number (--map=1).
-
-<img src="https://github.com/jidiai/Competition_Olympics-Running/blob/main/assets/evaluation_local_results.png">
-
-
