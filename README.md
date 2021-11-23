@@ -1,4 +1,4 @@
-# Competition_1v1running
+# Competition 1v1 running
 
 ## Environment
 
